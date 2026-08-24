@@ -1,0 +1,18 @@
+GUIDE PHOTOS — HOTEL LALLA AINI
+
+SLIDESHOW PRINCIPAL
+1. Ouvrez le dossier images-v2/slideshow/
+2. Remplacez slide-01.jpg jusqu’à slide-07.jpg par vos photos.
+3. Gardez exactement les mêmes noms de fichiers.
+4. Format recommandé : 1600 x 900 px (16:9).
+
+SLIDESHOW NOS CHAMBRES
+1. Ouvrez images-v2/chambres/
+2. Remplacez room-01.jpg jusqu’à room-07.jpg.
+3. Gardez exactement les mêmes noms.
+4. Format recommandé : 1600 x 900 px (16:9).
+
+IMPORTANT
+- Vous pouvez remplacer les photos sans modifier le HTML ni le JavaScript.
+- Si une photo n’est pas exactement en 16:9, le site la recadrera automatiquement pour remplir proprement le cadre et rester responsive.
+- Pour ajouter plus de photos au slideshow, il faudra simplement modifier le nombre dans js/app.js.
